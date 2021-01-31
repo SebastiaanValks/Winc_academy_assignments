@@ -1,0 +1,15 @@
+
+body { 
+    color:black;
+    font: normal 16px arial, helvetica, serif;
+    background-color: #388f63
+
+
+
+}
+
+.kopje{color:black;
+        border: black 1px solid;
+}
+
+#grotere_tekst{font-size: 20px;}
