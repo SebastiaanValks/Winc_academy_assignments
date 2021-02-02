@@ -1,0 +1,50 @@
+
+body { 
+    color:black;
+    font: normal 16px arial, helvetica, serif;
+    background-color: #eeeee4
+
+
+
+
+}
+
+.bar ul{
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+ 
+ }
+
+ li a {
+     float: left;
+     padding: 8px;
+    display: inline;    
+  }
+
+.kopje{color:black;
+        
+}
+
+#grotere_tekst{font-size: 20px;}
+
+a{text-decoration: none;
+
+}
+a:hover{color: red;}
+a:active{color: blue}
+
+
+
+
+.box-1 {background-color: #1e81b0; 
+    margin: 10%;
+padding: 10%;
+
+text-align: center;
+margin: 10;
+width: 70%;
+
+
+
+}
