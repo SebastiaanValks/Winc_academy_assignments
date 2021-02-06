@@ -1,0 +1,62 @@
+
+body { 
+    color:black;
+    font: normal 16px arial, helvetica, serif;
+    background-color: #f4f4f4
+
+
+
+
+}
+
+.bar ul{
+    display: block;
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+ 
+ }
+
+ li a {
+     float: left;
+     padding: 8px;
+    display: inline;
+    background-color: #388F63;
+    border: black solid 2px; 
+    width: 22%;
+    text-align: center;
+    color: black;   
+  }
+
+.kopje{color:black;
+        
+}
+
+#grotere_tekst{font-size: 20px;}
+
+a{text-decoration: none;
+
+}
+a:hover{color: red;}
+a:active{color: blue}
+
+
+
+
+.box-1 {background-color: #388F63; 
+    margin: 5%;
+padding: 10%;
+
+
+text-align: center;
+margin: 10;
+width: 70%;
+
+}
+
+
+@media (max-width: 640px) {                                                          
+    body {                                                                             
+        background-color: black;                                                             
+    }                                                                                
+}                     
