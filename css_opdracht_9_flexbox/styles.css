@@ -1,0 +1,70 @@
+
+body { 
+    color:black;
+    font: normal 16px arial, helvetica, serif;
+    background-color: #f4f4f4
+
+    
+
+
+}
+
+
+.container > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    
+  }
+
+  .container {
+    border: 2px solid black;
+    display: flex; justify-content: space-around;
+    flex-wrap: nowrap;
+    background-color: #388F63;
+    flex-direction: row;
+  }
+
+
+.kopje{color:black;
+        
+}
+
+#grotere_tekst{font-size: 20px;}
+
+a{text-decoration: none;
+
+}
+a:hover{color: red;}
+a:active{color: blue}
+
+
+
+
+.box-1 {background-color: #388F63; 
+    margin: 5%;
+padding: 10%;
+
+
+text-align: center;
+margin: 10;
+width: 70%;
+
+}
+
+
+@media (max-width: 640px) {                                                          
+    body {                                                                             
+        background-color: black;                                                             
+    }                                                                                
+}                     
+
+
+
+.blogpost { width: 300px; border: 1px solid black; 
+display: flex; flex-direction: row; flex-wrap: wrap; 
+
+
+
+}
+
