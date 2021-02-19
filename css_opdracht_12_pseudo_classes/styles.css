@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+font-size: 16px;
+}
+
+nav {
+background:darkblue;
+padding: 0px 15px;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background: none;
+}
+
+.menu li{
+    display: block;
+    padding: 15px 5px;
+}
+
+.currentPage {
+    background-color:steelblue;
+    margin: 0px;
+}
+
+a {color: white;}
+a:hover {color: aqua;}
+
+input:focus {
+    border: solid aqua 3px;
+}
